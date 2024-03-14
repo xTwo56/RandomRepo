@@ -2,4 +2,9 @@
 
  another line added
 
+<<<<<<< Updated upstream
  added after stash 
+=======
+ checking how stash works
+ 
+>>>>>>> Stashed changes
